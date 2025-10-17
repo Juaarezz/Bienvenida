@@ -5,6 +5,7 @@ public class adios {
 		System.out.println("¡Adiós mundo!");
 		System.out.println("¡Adiós mundo!");
 		System.out.println("¡Adiós mundo!");
+		System.out.println("¡Adiós mundo!");
 	}
 
 }
